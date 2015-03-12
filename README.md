@@ -8,3 +8,8 @@ time to sing. The song's simple lyrics are as follows:
   The same verse is repeated, each time with one fewer bottle. The song is completed when
   the singer or singers reach zero.
 Your task here is write a Python program capable of generating all the verses of the song.db
+
+
+  
+                                                                                                Felipe Bedoya Castaño
+                                                                                                Jesús Mendoza Lara
