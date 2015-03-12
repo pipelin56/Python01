@@ -11,5 +11,5 @@ Your task here is write a Python program capable of generating all the verses of
 
 
   
-                                                                        Felipe Bedoya Castaño
-                                                                        Jesús Mendoza Lara
+                                                                      Felipe Bedoya Castaño
+                                                                      Jesús Mendoza Lara
